@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Facial Emotion Recognition",
+    "desc": "Developed a Facial Emotion Recognition System using Convolutional Neural Networks to detect and interpret human emotions based on facial expressions.",
+    "image": "cnn",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/ShrutiGarud/Facial-Emotion-Recognition"
+    }
+  },
+  {
+    "name": "Chat Messanger with log Facility",
+    "desc": "A peer-to-peer chat application using Java socket programming that enables text communication with periodic logging, compatible across platforms.",
+    "image": "chat",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/ShrutiGarud/Chat-messenger-with-log-facility"
+    }
+  },
+  {
+    "name": "Customized Virtual File System",
+    "desc": "A customized virtual file system project that replicates Linux file system functionalities with essential data structures and shell-based interaction across platforms.",
+    "image": "cvfs",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/ShrutiGarud/Customised-Virtual-File-System"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Created a simple calculator in Java to perform basic arithmetic operations like addition, subtraction, multiplication, and division using GUI.",
+    "image": "cal1",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/ShrutiGarud/Calculator"
+    }
+  },
+  {
+    "name": "File Packer and Unpacker",
+    "desc": "Developed a Java-based File Packer and Unpacker tool to combine multiple files into a single file and extract them back efficiently for easy storage and transfer.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/ShrutiGarud/File-Packer-and-Unpacker"
+    }
+  }
+  
+
+  
+]
